@@ -1,4 +1,4 @@
-public class UseCase2PalindromeCheckerApp {
+public class PalindromeCheckerApp {
     public static void main(String[] args) {
         String str = "madam";
         String reversed = new StringBuilder(str).reverse().toString();
